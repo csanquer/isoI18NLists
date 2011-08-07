@@ -5,25 +5,21 @@
 '''
 
 try:
-  from lxml import etree
+    from lxml import etree
 except ImportError:
-  try:
-    # Python 2.5
-    import xml.etree.cElementTree as etree
-  except ImportError:
     try:
-      # Python 2.5
-      import xml.etree.ElementTree as etree
+        # Python 2.5
+        import xml.etree.ElementTree as etree
     except ImportError:
-      try:
-        # normal cElementTree install
-        import cElementTree as etree
-      except ImportError:
         try:
-          # normal ElementTree install
-          import elementtree.ElementTree as etree
+            # normal cElementTree install
+            import cElementTree as etree
         except ImportError:
-          print("Failed to import ElementTree from any known place")
+            try:
+                # normal ElementTree install
+                import elementtree.ElementTree as etree
+            except ImportError:
+                print("Failed to import ElementTree from any known place")
 
 import csv
 
@@ -35,9 +31,7 @@ def sortedDictValues(adict):
 
 countries = {}
 
-try:
-    iso3166en = open("iso_sources/iso_3166-1_list_en.xml", "r")
-    
+with open("iso_sources/iso_3166-1_list_en.xml", "r") as iso3166en:
     tree = etree.parse(iso3166en)
     
     for elt in tree.iter('ISO_3166-1_Entry'):
@@ -50,12 +44,8 @@ try:
         countries[code]['code'] = code
         countries[code]['english_name'] = name
     
-finally:
-    iso3166en.close()
-    
-try:
-    iso3166en = open("iso_sources/iso_3166-1_list_fr.xml", "r")
-    tree = etree.parse(iso3166en)
+with open("iso_sources/iso_3166-1_list_fr.xml", "r") as iso3166fr:
+    tree = etree.parse(iso3166fr)
                 
     for elt in tree.iter('ISO_3166-1_Entry'):
         
@@ -67,9 +57,6 @@ try:
             
         countries[code]['code'] = code
         countries[code]['french_name'] = name
-                                        
-finally:
-    iso3166en.close()
 
 countries = sortedDictValues(countries)
 countriesElt = etree.Element('countries')
@@ -93,17 +80,13 @@ countriesTree.write('iso_xml/countries.xml', encoding='UTF-8', pretty_print = Tr
 
 languages = {}
 
-
-try:
-    langCSVFile = open('iso_sources/ISO-639-2_utf-8.txt', 'r')
+with open('iso_sources/ISO-639-2_utf-8.txt', 'r') as langCSVFile:
     langCSV = csv.reader(langCSVFile, delimiter='|', lineterminator="\n", quotechar='"', skipinitialspace=True)
     for row in langCSV:
         if row[1] == '' or row[1] == None :
             row[1] = row[0]
         
         languages[row[0]] = { 'alpha3_B_code': row[0].decode("utf-8")  , 'alpha3_T_code': row[1].decode("utf-8")  , 'alpha2_code': row[2].decode("utf-8")  , 'english_name' : row[3].decode("utf-8")  , 'french_name' : row[4].decode("utf-8")  }
-finally:
-    langCSVFile.close()
 
 languagesElt = etree.Element('languages')
 languages = sortedDictValues(languages)

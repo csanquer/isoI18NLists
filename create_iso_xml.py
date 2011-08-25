@@ -22,7 +22,18 @@ except ImportError:
                 print("Failed to import ElementTree from any known place")
 
 import csv
+import re
 
+def customUcfirst(matchobj):
+    strfound = matchobj.group(0)
+    if strfound.lower() not in ('l', 'le', 'les', 'la', 'the', '\'s', 'a', 'et', 'and', 'du', 'de', 'd', 'des', 'of') :
+        return strfound.capitalize() 
+    else :
+        return strfound.lower() 
+
+def customCapitalize(string):
+    reg = re.compile(r"[\w,']+", re.UNICODE)
+    return reg.sub(customUcfirst,string)
 
 def sortedDictValues(adict):
     items = adict.items()
@@ -68,10 +79,10 @@ for  c in countries:
     codeElt.text = c['code']
     
     englishNameElt = etree.SubElement(countryElt, 'english_name')
-    englishNameElt.text = c['english_name']
+    englishNameElt.text = customCapitalize(c['english_name'])
     
     frenchNameElt = etree.SubElement(countryElt, 'french_name')
-    frenchNameElt.text = c['french_name']
+    frenchNameElt.text = customCapitalize(c['french_name']) 
 
 countriesTree = etree.ElementTree(countriesElt)
 countriesTree.write('iso_xml/countries.xml', encoding='UTF-8', pretty_print = True, xml_declaration=True)

@@ -138,7 +138,7 @@
   <country>
     <code>BN</code>
     <english_name>Brunei Darussalam</english_name>
-    <french_name>Brunéi Darussalam</french_name>
+    <french_name>Brunei Darussalam</french_name>
   </country>
   <country>
     <code>BO</code>
@@ -147,7 +147,7 @@
   </country>
   <country>
     <code>BQ</code>
-    <english_name>Bonaire, Saint Eustatius and Saba</english_name>
+    <english_name>Bonaire, Sint Eustatius and Saba</english_name>
     <french_name>Bonaire, Saint-Eustache et Saba</french_name>
   </country>
   <country>
@@ -448,7 +448,7 @@
   <country>
     <code>GS</code>
     <english_name>South Georgia and the South Sandwich Islands</english_name>
-    <french_name>Géorgie du Sud et les Îles Sandwich du Sud</french_name>
+    <french_name>Géorgie du Sud-et-les Îles Sandwich du Sud</french_name>
   </country>
   <country>
     <code>GT</code>
@@ -473,12 +473,12 @@
   <country>
     <code>HK</code>
     <english_name>Hong Kong</english_name>
-    <french_name>Hong-Kong</french_name>
+    <french_name>Hong Kong</french_name>
   </country>
   <country>
     <code>HM</code>
     <english_name>Heard Island and Mcdonald Islands</english_name>
-    <french_name>Heard, Île et Mcdonald, Îles</french_name>
+    <french_name>Heard-et-Îles Macdonald, Île</french_name>
   </country>
   <country>
     <code>HN</code>
@@ -618,7 +618,7 @@
   <country>
     <code>KY</code>
     <english_name>Cayman Islands</english_name>
-    <french_name>Caïmanes, Îles</french_name>
+    <french_name>Caïmans, Îles</french_name>
   </country>
   <country>
     <code>KZ</code>
@@ -677,8 +677,8 @@
   </country>
   <country>
     <code>LY</code>
-    <english_name>Libyan Arab Jamahiriya</english_name>
-    <french_name>Libyenne, Jamahiriya Arabe</french_name>
+    <english_name>Libya</english_name>
+    <french_name>Libye</french_name>
   </country>
   <country>
     <code>MA</code>
@@ -703,7 +703,7 @@
   <country>
     <code>MF</code>
     <english_name>Saint Martin (French Part)</english_name>
-    <french_name>Saint-Martin (Partie Française)</french_name>
+    <french_name>Saint-Martin(Partie Française)</french_name>
   </country>
   <country>
     <code>MG</code>
@@ -912,8 +912,8 @@
   </country>
   <country>
     <code>PS</code>
-    <english_name>Palestinian Territory, Occupied</english_name>
-    <french_name>Palestinien Occupé, Territoire</french_name>
+    <english_name>Palestine, State of</english_name>
+    <french_name>Palestine, État de</french_name>
   </country>
   <country>
     <code>PT</code>
@@ -1036,6 +1036,11 @@
     <french_name>Suriname</french_name>
   </country>
   <country>
+    <code>SS</code>
+    <english_name>South Sudan</english_name>
+    <french_name>Soudan du Sud</french_name>
+  </country>
+  <country>
     <code>ST</code>
     <english_name>Sao Tome and Principe</english_name>
     <french_name>Sao Tomé-et-Principe</french_name>
@@ -1063,7 +1068,7 @@
   <country>
     <code>TC</code>
     <english_name>Turks and Caicos Islands</english_name>
-    <french_name>Turks et Caïques, Îles</french_name>
+    <french_name>Turks-et-Caïcos, Îles</french_name>
   </country>
   <country>
     <code>TD</code>

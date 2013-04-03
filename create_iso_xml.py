@@ -54,14 +54,13 @@ with open("iso_sources/iso_3166-1_list_en.xml", "r") as iso3166en:
 	    
         countries[code]['code'] = code
         countries[code]['english_name'] = name
-    
+
 with open("iso_sources/iso_3166-1_list_fr.xml", "r") as iso3166fr:
     tree = etree.parse(iso3166fr)
-                
-    for elt in tree.iter('ISO_3166-1_Entry'):
         
+    for elt in tree.iter('ISO_3166-1_Entry'):
         name = elt.findtext('ISO_3166-1_Country_name')
-        code = elt.findtext('ISO_3166-1_Alpha-2_code')
+        code = elt.findtext('ISO_3166-1_Alpha-2_Code_element')
         
     	if not code in countries or type(countries[code]) != dict:
             countries[code] = { 'code': '' , 'english_name' : '' , 'french_name' : ''}

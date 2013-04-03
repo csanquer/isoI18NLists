@@ -1,995 +1,1250 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
 <ISO_3166-1_List_fr xml:lang="fr">
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>AFGHANISTAN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>AF</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>AFRIQUE DU SUD</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>ZA</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ÅLAND, ÎLES</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>AX</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ALBANIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>AL</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ALGÉRIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>DZ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ALLEMAGNE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>DE</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ANDORRE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>AD</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ANGOLA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>AO</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ANGUILLA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>AI</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ANTARCTIQUE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>AQ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ANTIGUA-ET-BARBUDA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>AG</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ARABIE SAOUDITE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>SA</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ARGENTINE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>AR</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ARMÉNIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>AM</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ARUBA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>AW</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>AUSTRALIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>AU</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>AUTRICHE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>AT</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>AZERBAÏDJAN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>AZ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BAHAMAS</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BS</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BAHREÏN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BH</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BANGLADESH</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BD</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BARBADE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BB</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BÉLARUS</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BY</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BELGIQUE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BE</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BELIZE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BZ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BÉNIN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BJ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BERMUDES</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BM</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BHOUTAN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BT</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BOLIVIE, l'ÉTAT PLURINATIONAL DE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BO</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BONAIRE, SAINT-EUSTACHE ET SABA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BQ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BOSNIE-HERZÉGOVINE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BA</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BOTSWANA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BW</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BOUVET, ÎLE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BV</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BRÉSIL</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BR</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BRUNÉI DARUSSALAM</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BN</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BULGARIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BG</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BURKINA FASO</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BF</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>BURUNDI</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BI</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>CAÏMANES, ÎLES</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>KY</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>CAMBODGE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>KH</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>CAMEROUN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>CM</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>CANADA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>CA</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>CAP-VERT</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>CV</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>CENTRAFRICAINE, RÉPUBLIQUE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>CF</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>CHILI</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>CL</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>CHINE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>CN</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>CHRISTMAS, ÎLE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>CX</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>CHYPRE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>CY</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>COCOS (KEELING), ÎLES</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>CC</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>COLOMBIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>CO</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>COMORES</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>KM</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>CONGO</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>CG</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>CONGO, LA RÉPUBLIQUE DÉMOCRATIQUE DU</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>CD</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>COOK, ÎLES</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>CK</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>CORÉE, RÉPUBLIQUE DE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>KR</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>CORÉE, RÉPUBLIQUE POPULAIRE DÉMOCRATIQUE DE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>KP</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>COSTA RICA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>CR</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>CÔTE D'IVOIRE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>CI</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>CROATIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>HR</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>CUBA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>CU</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>CURAÇAO</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>CW</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>DANEMARK</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>DK</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>DJIBOUTI</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>DJ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>DOMINICAINE, RÉPUBLIQUE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>DO</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>DOMINIQUE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>DM</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ÉGYPTE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>EG</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>EL SALVADOR</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>SV</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ÉMIRATS ARABES UNIS</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>AE</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ÉQUATEUR</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>EC</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ÉRYTHRÉE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>ER</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ESPAGNE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>ES</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ESTONIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>EE</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ÉTATS-UNIS</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>US</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ÉTHIOPIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>ET</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>FALKLAND, ÎLES (MALVINAS)</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>FK</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>FÉROÉ, ÎLES</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>FO</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>FIDJI</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>FJ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>FINLANDE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>FI</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>FRANCE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>FR</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>GABON</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>GA</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>GAMBIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>GM</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>GÉORGIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>GE</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>GÉORGIE DU SUD ET LES ÎLES SANDWICH DU SUD</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>GS</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>GHANA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>GH</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>GIBRALTAR</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>GI</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>GRÈCE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>GR</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>GRENADE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>GD</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>GROENLAND</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>GL</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>GUADELOUPE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>GP</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>GUAM</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>GU</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>GUATEMALA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>GT</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>GUERNESEY</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>GG</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>GUINÉE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>GN</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>GUINÉE-BISSAU</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>GW</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>GUINÉE ÉQUATORIALE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>GQ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>GUYANA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>GY</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>GUYANE FRANÇAISE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>GF</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>HAÏTI</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>HT</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>HEARD, ÎLE ET MCDONALD, ÎLES</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>HM</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>HONDURAS</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>HN</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>HONG-KONG</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>HK</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>HONGRIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>HU</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ÎLE DE MAN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>IM</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ÎLES MINEURES ÉLOIGNÉES DES ÉTATS-UNIS</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>UM</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ÎLES VIERGES BRITANNIQUES</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>VG</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ÎLES VIERGES DES ÉTATS-UNIS</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>VI</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>INDE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>IN</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>INDONÉSIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>ID</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>IRAN, RÉPUBLIQUE ISLAMIQUE D'</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>IR</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>IRAQ</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>IQ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>IRLANDE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>IE</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ISLANDE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>IS</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ISRAËL</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>IL</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ITALIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>IT</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>JAMAÏQUE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>JM</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>JAPON</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>JP</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>JERSEY</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>JE</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>JORDANIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>JO</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>KAZAKHSTAN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>KZ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>KENYA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>KE</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>KIRGHIZISTAN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>KG</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>KIRIBATI</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>KI</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>KOWEÏT</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>KW</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>LAO, RÉPUBLIQUE DÉMOCRATIQUE POPULAIRE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>LA</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>LESOTHO</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>LS</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>LETTONIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>LV</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>LIBAN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>LB</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>LIBÉRIA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>LR</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>LIBYENNE, JAMAHIRIYA ARABE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>LY</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>LIECHTENSTEIN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>LI</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>LITUANIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>LT</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>LUXEMBOURG</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>LU</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MACAO</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MO</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MACÉDOINE, L'EX-RÉPUBLIQUE YOUGOSLAVE DE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MK</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MADAGASCAR</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MG</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MALAISIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MY</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MALAWI</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MW</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MALDIVES</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MV</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MALI</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>ML</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MALTE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MT</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MARIANNES DU NORD, ÎLES</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MP</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MAROC</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MA</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MARSHALL, ÎLES</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MH</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MARTINIQUE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MQ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MAURICE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MU</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MAURITANIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MR</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MAYOTTE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>YT</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MEXIQUE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MX</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MICRONÉSIE, ÉTATS FÉDÉRÉS DE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>FM</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MOLDOVA, RÉPUBLIQUE DE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MD</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MONACO</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MC</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MONGOLIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MN</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MONTÉNÉGRO</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>ME</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MONTSERRAT</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MS</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MOZAMBIQUE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MZ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>MYANMAR</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MM</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>NAMIBIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>NA</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>NAURU</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>NR</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>NÉPAL</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>NP</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>NICARAGUA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>NI</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>NIGER</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>NE</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>NIGÉRIA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>NG</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>NIUÉ</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>NU</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>NORFOLK, ÎLE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>NF</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>NORVÈGE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>NO</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>NOUVELLE-CALÉDONIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>NC</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>NOUVELLE-ZÉLANDE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>NZ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>OCÉAN INDIEN, TERRITOIRE BRITANNIQUE DE L'</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>IO</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>OMAN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>OM</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>OUGANDA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>UG</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>OUZBÉKISTAN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>UZ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>PAKISTAN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>PK</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>PALAOS</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>PW</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>PALESTINIEN OCCUPÉ, TERRITOIRE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>PS</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>PANAMA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>PA</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>PAPOUASIE-NOUVELLE-GUINÉE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>PG</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>PARAGUAY</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>PY</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>PAYS-BAS</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>NL</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>PÉROU</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>PE</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>PHILIPPINES</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>PH</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>PITCAIRN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>PN</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>POLOGNE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>PL</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>POLYNÉSIE FRANÇAISE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>PF</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>PORTO RICO</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>PR</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>PORTUGAL</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>PT</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>QATAR</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>QA</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>RÉUNION</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>RE</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ROUMANIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>RO</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ROYAUME-UNI</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>GB</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>RUSSIE, FÉDÉRATION DE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>RU</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>RWANDA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>RW</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SAHARA OCCIDENTAL</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>EH</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-   <ISO_3166-1_Country_name>SAINT-BARTHÉLEMY</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>BL</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SAINTE-HÉLÈNE, ASCENSION ET TRISTAN DA CUNHA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>SH</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SAINTE-LUCIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>LC</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SAINT-KITTS-ET-NEVIS</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>KN</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SAINT-MARIN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>SM</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SAINT-MARTIN (PARTIE FRANÇAISE)</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>MF</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SAINT-MARTIN (PARTIE NÉERLANDAISE)</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>SX</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SAINT-PIERRE-ET-MIQUELON</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>PM</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SAINT-SIÈGE (ÉTAT DE LA CITÉ DU VATICAN)</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>VA</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SAINT-VINCENT-ET-LES GRENADINES</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>VC</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SALOMON, ÎLES</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>SB</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SAMOA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>WS</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SAMOA AMÉRICAINES</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>AS</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SAO TOMÉ-ET-PRINCIPE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>ST</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SÉNÉGAL</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>SN</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SERBIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>RS</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SEYCHELLES</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>SC</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SIERRA LEONE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>SL</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SINGAPOUR</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>SG</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SLOVAQUIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>SK</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SLOVÉNIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>SI</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SOMALIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>SO</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SOUDAN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>SD</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SRI LANKA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>LK</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SUÈDE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>SE</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SUISSE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>CH</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SURINAME</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>SR</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SVALBARD ET ÎLE JAN MAYEN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>SJ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SWAZILAND</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>SZ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>SYRIENNE, RÉPUBLIQUE ARABE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>SY</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>TADJIKISTAN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>TJ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>TAÏWAN, PROVINCE DE CHINE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>TW</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>TANZANIE, RÉPUBLIQUE-UNIE DE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>TZ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>TCHAD</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>TD</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>TCHÈQUE, RÉPUBLIQUE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>CZ</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>TERRES AUSTRALES FRANÇAISES</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>TF</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>THAÏLANDE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>TH</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>TIMOR-LESTE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>TL</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>TOGO</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>TG</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>TOKELAU</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>TK</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>TONGA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>TO</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>TRINITÉ-ET-TOBAGO</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>TT</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>TUNISIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>TN</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>TURKMÉNISTAN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>TM</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>TURKS ET CAÏQUES, ÎLES</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>TC</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>TURQUIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>TR</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>TUVALU</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>TV</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>UKRAINE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>UA</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>URUGUAY</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>UY</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>VANUATU</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>VU</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>VENEZUELA, RÉPUBLIQUE BOLIVARIENNE DU</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>VE</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>VIET NAM</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>VN</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>WALLIS ET FUTUNA</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>WF</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>YÉMEN</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>YE</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ZAMBIE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>ZM</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-   <ISO_3166-1_Entry>
-      <ISO_3166-1_Country_name>ZIMBABWE</ISO_3166-1_Country_name>
-      <ISO_3166-1_Alpha-2_code>ZW</ISO_3166-1_Alpha-2_code>
-   </ISO_3166-1_Entry>
-</ISO_3166-1_List_fr>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>AFGHANISTAN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>AF</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>AFRIQUE DU SUD</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>ZA</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>Ã…LAND, ÃŽLES</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>AX</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ALBANIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>AL</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ALGÃ‰RIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>DZ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ALLEMAGNE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>DE</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ANDORRE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>AD</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ANGOLA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>AO</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ANGUILLA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>AI</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ANTARCTIQUE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>AQ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ANTIGUA-ET-BARBUDA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>AG</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ARABIE SAOUDITE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SA</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ARGENTINE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>AR</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ARMÃ‰NIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>AM</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ARUBA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>AW</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>AUSTRALIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>AU</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>AUTRICHE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>AT</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>AZERBAÃDJAN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>AZ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BAHAMAS</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BS</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BAHREÃN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BH</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BANGLADESH</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BD</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BARBADE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BB</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BÃ‰LARUS</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BY</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BELGIQUE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BE</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BELIZE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BZ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BÃ‰NIN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BJ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BERMUDES</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BM</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BHOUTAN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BT</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BOLIVIE, l'Ã‰TAT PLURINATIONAL DE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BO</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BONAIRE, SAINT-EUSTACHE ET SABA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BQ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BOSNIE-HERZÃ‰GOVINE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BA</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BOTSWANA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BW</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BOUVET, ÃŽLE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BV</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BRÃ‰SIL</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BR</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BRUNEI DARUSSALAM</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BN</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BULGARIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BG</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BURKINA FASO</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BF</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>BURUNDI</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BI</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>CAÃMANS, ÃŽLES</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>KY</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>CAMBODGE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>KH</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>CAMEROUN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>CM</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>CANADA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>CA</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>CAP-VERT</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>CV</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>CENTRAFRICAINE, RÃ‰PUBLIQUE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>CF</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>CHILI</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>CL</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>CHINE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>CN</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>CHRISTMAS, ÃŽLE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>CX</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>CHYPRE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>CY</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>COCOS (KEELING), ÃŽLES</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>CC</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>COLOMBIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>CO</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>COMORES</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>KM</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>CONGO</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>CG</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>CONGO, LA RÃ‰PUBLIQUE DÃ‰MOCRATIQUE DU</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>CD</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>COOK, ÃŽLES</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>CK</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>CORÃ‰E, RÃ‰PUBLIQUE DE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>KR</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>CORÃ‰E, RÃ‰PUBLIQUE POPULAIRE DÃ‰MOCRATIQUE DE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>KP</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>COSTA RICA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>CR</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>CÃ”TE D'IVOIRE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>CI</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>CROATIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>HR</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>CUBA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>CU</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>CURAÃ‡AO</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>CW</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>DANEMARK</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>DK</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>DJIBOUTI</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>DJ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>DOMINICAINE, RÃ‰PUBLIQUE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>DO</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>DOMINIQUE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>DM</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>Ã‰GYPTE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>EG</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>EL SALVADOR</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SV</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>Ã‰MIRATS ARABES UNIS</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>AE</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>Ã‰QUATEUR</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>EC</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>Ã‰RYTHRÃ‰E</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>ER</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ESPAGNE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>ES</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ESTONIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>EE</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>Ã‰TATS-UNIS</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>US</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>Ã‰THIOPIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>ET</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>FALKLAND, ÃŽLES (MALVINAS)</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>FK</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>FÃ‰ROÃ‰, ÃŽLES</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>FO</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>FIDJI</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>FJ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>FINLANDE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>FI</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>FRANCE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>FR</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>GABON</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>GA</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>GAMBIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>GM</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>GÃ‰ORGIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>GE</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>GÃ‰ORGIE DU SUD-ET-LES ÃŽLES SANDWICH DU SUD</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>GS</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>GHANA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>GH</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>GIBRALTAR</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>GI</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>GRÃˆCE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>GR</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>GRENADE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>GD</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>GROENLAND</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>GL</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>GUADELOUPE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>GP</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>GUAM</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>GU</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>GUATEMALA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>GT</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>GUERNESEY</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>GG</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>GUINÃ‰E</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>GN</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>GUINÃ‰E-BISSAU</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>GW</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>GUINÃ‰E Ã‰QUATORIALE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>GQ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>GUYANA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>GY</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>GUYANE FRANÃ‡AISE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>GF</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>HAÃTI</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>HT</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>HEARD-ET-ÃŽLES MACDONALD, ÃŽLE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>HM</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>HONDURAS</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>HN</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>HONG KONG</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>HK</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>HONGRIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>HU</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ÃŽLE DE MAN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>IM</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ÃŽLES MINEURES Ã‰LOIGNÃ‰ES DES Ã‰TATS-UNIS</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>UM</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ÃŽLES VIERGES BRITANNIQUES</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>VG</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ÃŽLES VIERGES DES Ã‰TATS-UNIS</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>VI</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>INDE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>IN</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>INDONÃ‰SIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>ID</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>IRAN, RÃ‰PUBLIQUE ISLAMIQUE D'</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>IR</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>IRAQ</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>IQ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>IRLANDE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>IE</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ISLANDE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>IS</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ISRAÃ‹L</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>IL</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ITALIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>IT</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>JAMAÃQUE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>JM</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>JAPON</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>JP</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>JERSEY</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>JE</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>JORDANIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>JO</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>KAZAKHSTAN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>KZ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>KENYA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>KE</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>KIRGHIZISTAN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>KG</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>KIRIBATI</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>KI</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>KOWEÃT</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>KW</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>LAO, RÃ‰PUBLIQUE DÃ‰MOCRATIQUE POPULAIRE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>LA</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>LESOTHO</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>LS</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>LETTONIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>LV</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>LIBAN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>LB</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>LIBÃ‰RIA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>LR</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>LIBYE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>LY</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>LIECHTENSTEIN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>LI</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>LITUANIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>LT</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>LUXEMBOURG</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>LU</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MACAO</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MO</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MACÃ‰DOINE, L'EX-RÃ‰PUBLIQUE YOUGOSLAVE DE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MK</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MADAGASCAR</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MG</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MALAISIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MY</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MALAWI</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MW</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MALDIVES</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MV</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MALI</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>ML</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MALTE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MT</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MARIANNES DU NORD, ÃŽLES</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MP</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MAROC</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MA</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MARSHALL, ÃŽLES</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MH</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MARTINIQUE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MQ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MAURICE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MU</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MAURITANIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MR</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MAYOTTE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>YT</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MEXIQUE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MX</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MICRONÃ‰SIE, Ã‰TATS FÃ‰DÃ‰RÃ‰S DE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>FM</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MOLDOVA, RÃ‰PUBLIQUE DE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MD</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MONACO</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MC</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MONGOLIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MN</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MONTÃ‰NÃ‰GRO</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>ME</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MONTSERRAT</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MS</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MOZAMBIQUE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MZ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>MYANMAR</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MM</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>NAMIBIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>NA</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>NAURU</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>NR</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>NÃ‰PAL</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>NP</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>NICARAGUA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>NI</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>NIGER</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>NE</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>NIGÃ‰RIA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>NG</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>NIUÃ‰</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>NU</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>NORFOLK, ÃŽLE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>NF</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>NORVÃˆGE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>NO</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>NOUVELLE-CALÃ‰DONIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>NC</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>NOUVELLE-ZÃ‰LANDE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>NZ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>OCÃ‰AN INDIEN, TERRITOIRE BRITANNIQUE DE L'</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>IO</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>OMAN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>OM</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>OUGANDA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>UG</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>OUZBÃ‰KISTAN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>UZ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>PAKISTAN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>PK</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>PALAOS</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>PW</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>PALESTINE, Ã‰TAT DE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>PS</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>PANAMA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>PA</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>PAPOUASIE-NOUVELLE-GUINÃ‰E</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>PG</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>PARAGUAY</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>PY</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>PAYS-BAS</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>NL</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>PÃ‰ROU</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>PE</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>PHILIPPINES</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>PH</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>PITCAIRN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>PN</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>POLOGNE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>PL</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>POLYNÃ‰SIE FRANÃ‡AISE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>PF</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>PORTO RICO</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>PR</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>PORTUGAL</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>PT</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>QATAR</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>QA</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>RÃ‰UNION</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>RE</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ROUMANIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>RO</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ROYAUME-UNI</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>GB</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>RUSSIE, FÃ‰DÃ‰RATION DE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>RU</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>RWANDA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>RW</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SAHARA OCCIDENTAL</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>EH</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SAINT-BARTHÃ‰LEMY</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>BL</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SAINTE-HÃ‰LÃˆNE, ASCENSION ET TRISTAN DA CUNHA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SH</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SAINTE-LUCIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>LC</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SAINT-KITTS-ET-NEVIS</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>KN</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SAINT-MARIN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SM</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SAINT-MARTIN(PARTIE FRANÃ‡AISE)</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>MF</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SAINT-MARTIN (PARTIE NÃ‰ERLANDAISE)</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SX</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SAINT-PIERRE-ET-MIQUELON</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>PM</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SAINT-SIÃˆGE (Ã‰TAT DE LA CITÃ‰ DU VATICAN)</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>VA</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SAINT-VINCENT-ET-LES GRENADINES</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>VC</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SALOMON, ÃŽLES</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SB</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SAMOA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>WS</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SAMOA AMÃ‰RICAINES</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>AS</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SAO TOMÃ‰-ET-PRINCIPE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>ST</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SÃ‰NÃ‰GAL</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SN</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SERBIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>RS</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SEYCHELLES</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SC</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SIERRA LEONE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SL</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SINGAPOUR</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SG</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SLOVAQUIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SK</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SLOVÃ‰NIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SI</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SOMALIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SO</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SOUDAN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SD</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SOUDAN DU SUD</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SS</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SRI LANKA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>LK</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SUÃˆDE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SE</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SUISSE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>CH</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SURINAME</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SR</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SVALBARD ET ÃŽLE JAN MAYEN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SJ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SWAZILAND</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SZ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>SYRIENNE, RÃ‰PUBLIQUE ARABE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>SY</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>TADJIKISTAN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>TJ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>TAÃWAN, PROVINCE DE CHINE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>TW</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>TANZANIE, RÃ‰PUBLIQUE-UNIE DE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>TZ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>TCHAD</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>TD</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>TCHÃˆQUE, RÃ‰PUBLIQUE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>CZ</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>TERRES AUSTRALES FRANÃ‡AISES</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>TF</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>THAÃLANDE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>TH</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>TIMOR-LESTE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>TL</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>TOGO</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>TG</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>TOKELAU</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>TK</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>TONGA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>TO</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>TRINITÃ‰-ET-TOBAGO</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>TT</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>TUNISIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>TN</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>TURKMÃ‰NISTAN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>TM</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>TURKS-ET-CAÃCOS, ÃŽLES</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>TC</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>TURQUIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>TR</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>TUVALU</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>TV</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>UKRAINE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>UA</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>URUGUAY</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>UY</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>VANUATU</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>VU</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>VENEZUELA, RÃ‰PUBLIQUE BOLIVARIENNE DU</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>VE</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>VIET NAM</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>VN</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>WALLIS ET FUTUNA</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>WF</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>YÃ‰MEN</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>YE</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ZAMBIE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>ZM</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	<ISO_3166-1_Entry>
+		<ISO_3166-1_Country_name>ZIMBABWE</ISO_3166-1_Country_name>
+      	<ISO_3166-1_Alpha-2_Code_element>ZW</ISO_3166-1_Alpha-2_Code_element>
+	</ISO_3166-1_Entry>
+
+	</ISO_3166-1_List_fr>
+
